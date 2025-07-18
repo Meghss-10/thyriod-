@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "matplotlib": "^1.0.0",
+    "sklearn": "^1.0.0",
+    "tkinter": "^0.0.2-security"
+  }
+}
